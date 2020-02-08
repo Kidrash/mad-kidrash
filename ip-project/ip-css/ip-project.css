@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+}
+.name{
+    color: red;
+    font-size: 30px;
+}
+.school{
+    color: green;
+}
+p {
+    color:skyblue
+
+}
