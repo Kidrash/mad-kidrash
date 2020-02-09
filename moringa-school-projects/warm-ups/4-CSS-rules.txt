@@ -1,0 +1,9 @@
+
+1.Multiple declarations can live in a single rule
+
+2.Multiple selectors can preface the same rule set
+
+3.Multiple rules can be applied to the same selector 
+
+4.Multiple classes can be set on a single element
+
