@@ -15,3 +15,17 @@ p {
     color:skyblue
 
 }
+nav{
+    height: 2rem;
+    background: #eeee;
+    backface-visibility: visible;
+    background-position: 4rem;
+    padding: 1rem;
+}
+nav ul{
+    margin:0;
+    padding:0;
+}
+nav ul style{
+    list-style: none;
+}
